@@ -7,7 +7,7 @@ nlp = spacy.load("en_core_web_sm")
 qa_pairs = {
     "what is your name": "I am a chatbot created using spaCy!",
     "how are you": "I'm just code, but thanks for asking!",
-    "what is nlp": "NLP stands for Natural Language Processing.",
+    "what is nlp": "NLP stands for Natural Language Processing..",
     "bye": "Goodbye! Have a great day!"
 }
 
